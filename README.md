@@ -4,7 +4,7 @@
 ## Usage:
 
 ```Javascript
-const randomColor = require("randomColor")
+const randomColor = require("random-rgb-generator");
 
 console.log(randomColor());
 // Example: #05fe7a
