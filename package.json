@@ -1,0 +1,17 @@
+{
+  "name": "random-color",
+  "version": "0.0.1",
+  "description": "Generates a random color to use anywhere",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "javascript",
+    "random",
+    "tools"
+  ],
+  "author": "Kevin621",
+  "license": "MIT"
+}
