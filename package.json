@@ -1,5 +1,5 @@
 {
-  "name": "random-color",
+  "name": "random-rgb-generator",
   "version": "0.0.1",
   "description": "Generates a random color to use anywhere",
   "main": "index.ts",
@@ -13,5 +13,9 @@
     "tools"
   ],
   "author": "Kevin621",
-  "license": "MIT"
+  "license": "MIT",
+  "readme": "README.md",
+  "dependencies": {
+    "@types/node": "^14.14.10"
+  }
 }

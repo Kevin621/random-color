@@ -7,6 +7,4 @@ function randomColor(){
     });
 }
 
-export {
-    randomColor
-}
+module.exports = randomColor
