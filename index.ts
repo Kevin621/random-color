@@ -1,5 +1,5 @@
 /**
- * @returns {Int}
+ * @returns {string}
  */
 function randomColor(){
     return "#000000".replace(/0/g, function(){
