@@ -6,6 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/Kevin621/random-color/blob/main/README.md",
+  "repository": "https://github.com/Kevin621/random-color",
   "keywords": [
     "color",
     "javascript",
